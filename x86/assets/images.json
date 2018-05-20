@@ -1,0 +1,18 @@
+[
+	{
+		"id":"image1",
+		"prop":{
+			"width":580,
+			"height":167
+		},
+		"posi":{
+			"x":10,
+			"y":10
+		},
+		"imgp":{
+			"src":"assets/Logo_Black.png",
+			"width":580,
+			"height":167
+		}
+	}
+]

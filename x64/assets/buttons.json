@@ -1,0 +1,41 @@
+[
+	{
+		"id":"button1",
+		"prop":{
+			"text":"HEX Dosyasý Seç",
+			"width":30,
+			"height":2
+		},
+		"posi":{
+			"x":50,
+			"y":200
+		},
+		"command":"button1Click"
+	},
+	{
+		"id":"button2",
+		"prop":{
+			"text":"Hid Beklemeyi baþlat",
+			"width":30,
+			"height":2
+		},
+		"posi":{
+			"x":50,
+			"y":250
+		},
+		"command":"button2Click"
+	},
+	{
+		"id":"button3",
+		"prop":{
+			"text":"pickat.org Adresini Ziyaret Et",
+			"width":30,
+			"height":2
+		},
+		"posi":{
+			"x":50,
+			"y":300
+		},
+		"command":"button3Click"
+	}
+]
